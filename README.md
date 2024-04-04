@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Java, C++, Dsa, MERN STACK, Docker, Kubernetes, Sping,Azure,HTML,CSS,JS**
+- 💬 Ask me about **Java, C++, Dsa, MERN STACK, Docker, Kubernetes, Sping,Azure,HTML,CSS,JS**    
  📫 How to reach me **shivalika.manu@gmail.com**
   
 
@@ -27,23 +27,7 @@
 
 
 
-    🛠️ Tech Stack
-
-
-<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/715d499a-45ac-47e7-bd03-3b886158fad1" width="150" height="150">
-
-
-
-<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/f5001934-41dd-4e81-a00a-1f8be141d58e" width="150" height="150">
-
-<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/99309bfc-6b4d-4018-b241-e58fee88432e" width="150" height="150">  
-
-<img src="https://in.images.search.yahoo.com/search/images;_ylt=Awr1TW0uDg5mYAQAUe67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=mern+stack&fr2=piv-web&type=E210IN885G0&fr=mcafee#id=1&iurl=https%3A%2F%2Fthereadersea.com%2Fwp-content%2Fuploads%2F2023%2F05%2Fmern-stack.png&action=click" width="150" height="150"> 
-
-
-
-
-##Fluent With
+    
  - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
     🛠️ DSA
 
