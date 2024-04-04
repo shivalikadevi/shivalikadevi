@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/715d499a-45ac-47e7-bd03-3b886158fad1" width="150" height="150">
 
-<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/0d54f7bd-5bc6-4a9d-8e6f-e7d52ab6744d" width="150" height="150">
+
 
 <img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/f5001934-41dd-4e81-a00a-1f8be141d58e" width="150" height="150">
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-
+##Fluent With
  - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
     🛠️ DSA
 
