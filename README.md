@@ -1,5 +1,5 @@
-##### Hi there 👋
-
+<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Shivalika</h1>
+<h3 align="left">An aspiring fullstack developer from India.</h3>
 <!--
 **shivalikadevi/shivalikadevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ## 👨‍💻 About Me ...
 
+
+
+## 👨‍💻 About Me ...
   
 - 🌐 Assistant Software Engineer at RoboMQ
 - 📚 Passionate about building software that solves real-world problems
@@ -22,6 +24,13 @@ Here are some ideas to get you started:
 - 📚 Currently learning and practicing Data Structures and Algorithms
 - 🏆 Solved 500+ Leetcode  https://leetcode.com/shivalikadevi/
 
+- 🔭 I’m currently working on **JAVA SPRING Framework**
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 💬 Ask me about **Java, C++, Dsa, MERN STACK, Docker, Kubernetes, Sping,Azure,HTML,CSS,JS**
+ 📫 How to reach me **shivalika.manu@gmail.com**
+  
 
 
 
