@@ -1,4 +1,4 @@
-### Hi there 👋
+##### Hi there 👋
 
 <!--
 **shivalikadevi/shivalikadevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   ## 👨‍💻 About Me ...
+
+  
 - 🌐 Assistant Software Engineer at RoboMQ
 - 📚 Passionate about building software that solves real-world problems
 - 🌐 Full Stack Developer specializing in MERN Stack
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
     - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
     🛠️ DSA
 
-🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 
 
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
   💻 MERN Stack Development 
 
     
-📚 What I'm Doing ...
+## 📚 What I'm Doing ...
 
 
 
