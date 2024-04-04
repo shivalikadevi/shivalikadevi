@@ -4,7 +4,6 @@
 **shivalikadevi/shivalikadevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ Hello, I'm Shivalika 👋
+- 🌐 Assistant Software Engineer at RoboMQ
+- 📚 Passionate about building software that solves real-world problems
+- 🌐 Full Stack Developer specializing in MERN Stack
+- 📚 Currently learning and practicing Data Structures and Algorithms
+- 🏆 Solved 500+ Leetcode  https://leetcode.com/shivalikadevi/
+  ![image](https://github.com/shivalikadevi/shivalikadevi/assets/59412482/51258c44-f42d-416d-8deb-10fa7b8f87ef)
+  ![image](https://github.com/shivalikadevi/shivalikadevi/assets/59412482/e18ca001-52df-4f61-a800-6bc9449d3f80)
+
+
+
+💬 Ask me about ...
+    🛠️ Tech Stack
+    - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
+    🛠️ DSA
+
+🌱 I’m currently learning
+  💻 DSA 
+  💻 System Design
+  💻 MERN Stack Development 
+
+    
+📚 What I'm Doing
+
+- 🛠️ Desining the Microservices with Spring Framework 
+- 🛠️ Working on Project using MERN Stack development.
+- 📘 Daily practice of DSA on LeetCode with batches
+- 📈 Improving my skills in Computer Science and Software Development
+
+ 🤝👯 I’m looking to collaborate on  Open Source projects
+
+- 📧 Feel free to reach out: shivalika.manu@gmail.com or shivalikadevi788@gmail.com
+
