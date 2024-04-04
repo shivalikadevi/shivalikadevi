@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-    - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
+ - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
     🛠️ DSA
 
 ## 🌱 I’m currently learning ...
