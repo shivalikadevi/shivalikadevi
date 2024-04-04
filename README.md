@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 - 📘 Daily practice of DSA on LeetCode with batches
 - 📈 Improving my skills in Computer Science and Software Development
 
+
+## Assests I love to collect 
+![image](https://github.com/shivalikadevi/shivalikadevi/assets/59412482/ae4d8f44-0b75-4c6e-ad8b-a0cc709eba54)
+
+
  🤝👯 I’m looking to collaborate on  Open Source projects
 
 - 📧 Feel free to reach out: shivalika.manu@gmail.com or shivalikadevi788@gmail.com
