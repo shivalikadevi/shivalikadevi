@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/f5001934-41dd-4e81-a00a-1f8be141d58e" width="150" height="150">
 
-<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/99309bfc-6b4d-4018-b241-e58fee88432e" width="150" height="150">
+<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/99309bfc-6b4d-4018-b241-e58fee88432e" width="150" height="150">  
 
 
 
