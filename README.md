@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Java, C++, Dsa, MERN STACK, Docker, Kubernetes, Sping,Azure,HTML,CSS,JS**    
+
  📫 How to reach me **shivalika.manu@gmail.com**
   
 
