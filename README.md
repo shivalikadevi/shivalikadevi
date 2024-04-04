@@ -31,7 +31,17 @@ Here are some ideas to get you started:
 
 
     🛠️ Tech Stack
-<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/715d499a-45ac-47e7-bd03-3b886158fad1" width="300" height="200">
+
+
+<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/715d499a-45ac-47e7-bd03-3b886158fad1" width="150" height="150">
+
+<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/0d54f7bd-5bc6-4a9d-8e6f-e7d52ab6744d" width="150" height="150">
+
+<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/f5001934-41dd-4e81-a00a-1f8be141d58e" width="150" height="150">
+
+<img src="https://github.com/shivalikadevi/shivalikadevi/assets/59412482/99309bfc-6b4d-4018-b241-e58fee88432e" width="150" height="150">
+
+
 
 
 
