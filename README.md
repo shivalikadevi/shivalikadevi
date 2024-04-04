@@ -13,19 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ## 👨‍💻 About Me
+  ## 👨‍💻 About Me ...
 - 🌐 Assistant Software Engineer at RoboMQ
 - 📚 Passionate about building software that solves real-world problems
 - 🌐 Full Stack Developer specializing in MERN Stack
 - 📚 Currently learning and practicing Data Structures and Algorithms
 - 🏆 Solved 500+ Leetcode  https://leetcode.com/shivalikadevi/
-
-
-2024 🏆 Assets
-  ![image](https://github.com/shivalikadevi/shivalikadevi/assets/59412482/51258c44-f42d-416d-8deb-10fa7b8f87ef)
-  ![image](https://github.com/shivalikadevi/shivalikadevi/assets/59412482/e0dfdf3e-ab25-4568-a05b-37baef1b6fe3)
-  ![image](https://github.com/shivalikadevi/shivalikadevi/assets/59412482/3cf58d06-291f-4c8d-b0fe-00344e570133)
-
 
 
 
@@ -39,7 +32,7 @@ Here are some ideas to get you started:
     - 💻 C++ | Java| Spring | JavaScript | Node.js | React.js | Express.js | MongoDB | Docker | Kubernetes | SQL | RabitMQ
     🛠️ DSA
 
-🌱 I’m currently learning
+🌱 I’m currently learning ...
 
 
 
@@ -48,7 +41,7 @@ Here are some ideas to get you started:
   💻 MERN Stack Development 
 
     
-📚 What I'm Doing
+📚 What I'm Doing ...
 
 
 
